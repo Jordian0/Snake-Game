@@ -5,13 +5,16 @@ This is a simple snake game built using C++. Snake can move up, right, down, lef
 
 
 <br/>
+
 ## Screenshots
 <div style="margin-left:50px">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/Jordian0/Snake-Game/main/screenshot/Screenshot%20from%202022-07-17%2016-31-20.png)
+ 
 </div>
 
 <br/>
+
 ## How to play
 You can press these keys to change the direction of the snake or to exit the game.
 <div style="margin-left:50px">
@@ -26,6 +29,7 @@ You can press these keys to change the direction of the snake or to exit the gam
 </div>
 
 <br/>
+
 ## Libraries we'll need
 
 - [**conio.h**](https://en.wikipedia.org/wiki/Conio.h) : For console input and output. For windows systems you can download the file. For linux systems that file is in the repository.
@@ -34,7 +38,9 @@ You can press these keys to change the direction of the snake or to exit the gam
 
   **Other libraries are included in cpp files**
  
+
 <br/>
+
 ## To run the game
 
 First we have to compile the game :
@@ -50,6 +56,7 @@ To execute the compiled file run :
 ```
 
 <br/>
+
 ## UML Diagram
 
 
@@ -90,6 +97,7 @@ classDiagram
 
 
 <br/>
+ 
 ## Support
 
 <a href="https://www.buymeacoffee.com/jordian" target="_blank" style="margin-left:50px;"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180" style="border-radius:10px"></a>
