@@ -7,7 +7,7 @@ This is a simple snake game built using C++. Snake can move up, right, down, lef
 <br/>
 
 ## Screenshots
-<div style="margin-left:50px">
+<div align="center">
 
 ![App Screenshot](https://raw.githubusercontent.com/Jordian0/Snake-Game/main/screenshot/Screenshot%20from%202022-07-17%2016-31-20.png)
  
@@ -17,7 +17,6 @@ This is a simple snake game built using C++. Snake can move up, right, down, lef
 
 ## How to play
 You can press these keys to change the direction of the snake or to exit the game.
-<div style="margin-left:50px">
 
 | Key  | Direction  |
 | -----| -----------|
@@ -26,7 +25,6 @@ You can press these keys to change the direction of the snake or to exit the gam
 | a    | LEFT       |
 | d    | RIGHT      |
 | x    | QUIT       |
-</div>
 
 <br/>
 
@@ -60,7 +58,6 @@ To execute the compiled file run :
 ## UML Diagram
 
 
-<div style="margin-left:30%;">
 
 ```mermaid
 classDiagram
@@ -93,11 +90,10 @@ classDiagram
         +Logic()
     }
 ```
-</div>
 
 
 <br/>
  
 ## Support
 
-<a href="https://www.buymeacoffee.com/jordian" target="_blank" style="margin-left:50px;"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180" style="border-radius:10px"></a>
+<a href="https://www.buymeacoffee.com/jordian" target="_blank" align="center"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180" style="border-radius:10px"></a>
