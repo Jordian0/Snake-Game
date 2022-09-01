@@ -93,7 +93,4 @@ classDiagram
 
 
 <br/>
- 
-## Support
 
-<a href="https://www.buymeacoffee.com/jordian" target="_blank" align="center"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180" style="border-radius:10px"></a>
